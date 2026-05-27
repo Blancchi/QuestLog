@@ -8,11 +8,11 @@ A task management app that turns real-life to-do lists into RPG quests. Built wi
 
 | Home | Quest List | Quest Detail |
 |------|------------|--------------|
-| Active quests with difficulty badges | Filter, search, and sort quests | View details, complete, or archive |
+| ![Home](./screenshots/1-home.png) | ![Quest List](./screenshots/2-quest-list.png) | ![Quest Detail](./screenshots/3-quest-detail.png) |
 
 | Create Quest | Edit Quest | Profile |
 |--------------|------------|---------|
-| Auto-tagged difficulty + XP preview | Pre-filled form with deadline clear | XP bar, stats, and achievements |
+| ![Create](./screenshots/4-create-quest.png) | ![Edit](./screenshots/5-edit-quest.png) | ![Profile](./screenshots/6-profile.png) ||
 
 ---
 
